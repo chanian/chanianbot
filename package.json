@@ -1,0 +1,16 @@
+{
+  "name": "chanianbot",
+  "version": "0.0.1",
+  "description": "a simple poker bot, in javascript, that tries to play like me",
+  "keywords": ["competition", "poker"],
+  "repository": "https://github.com/chanian/chanianbot",
+  "author": "Ian Chan <chanian@twitter.com> (http://chanian.com)",
+  "scripts": {
+     "build": "node build.js"
+  },
+  "devDependencies": {
+    "should": "1.1.0"
+  },
+  "engines": { "node": "0.8.x" },
+  "license": "MIT"
+}
